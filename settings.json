@@ -1,6 +1,6 @@
 {
 	"csv_dir"	 				: "csv_files_test",
-	"video_files_dir"			: "D:/dfm/ytuploads/scripts/video_files",
+	"video_files_dir"			: "/export/tout",
 	"keywords"					: "",
 	"category"					: 22,
 	"privacyStatus2"			: "public",
