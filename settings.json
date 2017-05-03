@@ -1,0 +1,12 @@
+{
+	"csv_dir"	 				: "csv_files_test",
+	"video_files_dir"			: "D:/dfm/ytuploads/scripts/video_files",
+	"keywords"					: "",
+	"category"					: 22,
+	"privacyStatus2"			: "public",
+	"privacyStatus"				: "private",
+	"client_secrets_file2"		: "dfm.rramirez.02-client_id-installed.json",
+	"client_secrets_file"		: "secreto_cliente_mu.json",
+	"createAt_as_publishedAt"	: true,
+	"channelIdFile"				: "channel_id_test.csv"
+}
